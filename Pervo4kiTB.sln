@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pervo4kiTB", "Pervo4kiTB\Pervo4kiTB.csproj", "{BFCCFA04-EC78-4259-84E6-29C179E73B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCCFA04-EC78-4259-84E6-29C179E73B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCCFA04-EC78-4259-84E6-29C179E73B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCCFA04-EC78-4259-84E6-29C179E73B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCCFA04-EC78-4259-84E6-29C179E73B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5194ACE-DFD2-4270-862D-67978ED66010}
+	EndGlobalSection
+EndGlobal
